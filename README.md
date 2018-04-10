@@ -12,6 +12,15 @@ See https://pages.github.com/ for instructions on setting up.
  * OpenCV programmer
  * Recently started contributing to OpenCV
 
+#### Currently working on
+
+ * OpenCV 4.0 SIMD intrinsics
+   * [OpenCV's page on 4.0](https://github.com/opencv/opencv/wiki/OE-4.-OpenCV-4)
+   * [OpenCV's page on universal intrinsics](https://github.com/opencv/opencv/wiki/OE-27.-Wide-Universal-Intrinsics)
+   * [My *piecemeal* contributions, *growing bit by bit everyday*](https://github.com/kinchungwong/cv400_intrinsics_playground)
+   * Goal 1: make it easy for programmers outside the OpenCV core team to understand the algorithms, even if they are implemented in SIMD.
+   * Goal 2: make it easier to port existing implementations to newer SIMD architectures, such as those having wider widths, or vector-length-agnostic.
+
 #### Current objective
 
  * Contribute to OpenCV 4.0
@@ -26,6 +35,7 @@ See https://pages.github.com/ for instructions on setting up.
  * Learn Python (as a programming language for hosting continuous integration systems)
  * Learn database stuff
  * Learn modern neural network tools
+ * Learn [Halide, a DSL for implementing, compiling, transforming, synthesizing image processing and computational photography algorithms](http://halide-lang.org/)
 
 #### Tertiary objective
 
