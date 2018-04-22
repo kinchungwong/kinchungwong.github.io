@@ -46,7 +46,7 @@ Even if we're reading past the end of one row, typically the current and next ro
 If I build and run this in debug mode, it would throw an exception due to a ```CV_DbgAssert```. This is how we intend to prevent users from making this mistake. (See ***How do we prevent this*** below.)
 
 If I build and run this in release mode, here is the output:
-<details><summary>Output from my MSVC15 x64 Release</summary>
+<details><summary>Click here to see the output from my MSVC15 x64 Release</summary>
 
 ```txt
 ============================================================================
