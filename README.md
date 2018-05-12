@@ -60,7 +60,7 @@ See https://pages.github.com/ for instructions on setting up.
     * ARM NEON
     * Power Architecture VSX
     * Contributions which break build or doesn't produce identical result on any one architecture are rejected.
-    * THe burden of proofing performance improvement or non-regression is currently placed on the code contributor.
+    * The burden of proof on performance improvement or non-regression is currently placed on the code contributor.
     * Contributions into the 3.4 branch are required to be C++98 conforming, and cannot use any C++11 features.
   * My development machine is not set up for reliable performance benchmarking.
   * My machine required aggressive thermal throttling (DVFS) to stay cool.
