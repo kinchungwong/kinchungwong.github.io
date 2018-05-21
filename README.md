@@ -8,6 +8,18 @@ See https://pages.github.com/ for instructions on setting up.
 
 ----
 
+## Read this first
+
+Google is for personal business. Don't risk your business on Google.
+Companies that use Google runs the risk of getting entire company's communication infrastructure shut down, if any employee (1) specifies a personal email address as a password recovery email (or somehow allows Google to trace the company's account to that other email address), and (2) that employee did something wrong (and was traced to that personal email) that prompted Google to take action.
+The result is that a wide net of "connected accounts" (where the "connection" is merely tangential) got shut down as well.
+The insanity is that apparently Google "crawls" for emails that could be tangentially related, and then proceeds to shut down those accounts.
+While plenty of concerned Googlers offered to help, the business divisions at Google refused to be contacted.
+Forward a link to any recruiters or business associates who may contact you. You may lose a job opportunity, but you wouldn't want to work for them unless they change.  
+https://news.ycombinator.com/item?id=17115643
+
+----
+
 ## About my work
 
 * C++ programmer
